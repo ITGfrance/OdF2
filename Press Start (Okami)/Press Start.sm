@@ -6,7 +6,7 @@
 #ARTISTTRANSLIT:;
 #GENRE:;
 #CREDIT:;
-#BANNER:;
+#BANNER:banner.jpg;
 #BACKGROUND:;
 #LYRICSPATH:;
 #CDTITLE:;
@@ -26,7 +26,7 @@
      dance-single:
      Okami:
      Challenge:
-     1:
+     15:
      0.901,0.150,0.000,0.000,1.000:
   // measure 1
 1000
